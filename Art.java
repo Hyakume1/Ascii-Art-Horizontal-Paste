@@ -20,10 +20,6 @@
  */
 
 package com.company;
-
-import java.awt.*;
-import java.awt.datatransfer.Clipboard;
-import java.awt.datatransfer.StringSelection;
 import java.util.ArrayList;
 import java.util.Scanner;
 
